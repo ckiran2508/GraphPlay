@@ -1,6 +1,6 @@
 # GraphPlay
 
-A Javascript project that shows 2d simulations of simple physics pehnomena.
+A Javascript project that presents interactive visualizations of simple physical phenomena.
 
 Usage Steps: (Visual Studio Code desired IDE)
 
